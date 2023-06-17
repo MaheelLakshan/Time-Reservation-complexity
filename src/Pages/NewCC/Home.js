@@ -22,7 +22,7 @@ function Home() {
                 marginBottom: '10px',
               }}
             >
-              Welcome to the New CC DashBoard
+              Welcome to the New CC DashBoards
             </h3>
           </div>
           <div>
